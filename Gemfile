@@ -29,6 +29,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails', '4.3.1'
 # Bootstrap
 gem 'bootstrap-sass', '3.3.7'
+# Brcrypt
+gem 'bcrypt', '3.1.11'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
